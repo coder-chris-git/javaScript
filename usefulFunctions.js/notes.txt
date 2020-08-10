@@ -1,0 +1,3 @@
+notes 
+
+dont put slash in links to js 
